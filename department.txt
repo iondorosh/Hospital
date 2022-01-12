@@ -1,0 +1,1 @@
+Department{name='Department1', personal=[Doctor{firstName='FN1', lastName='LN1', position=CEO}, Doctor{firstName='FN2', lastName='LN2', position=DIRECTOR}, Doctor{firstName='FN3', lastName='LN3', position=MANAGER}]}

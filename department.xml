@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<department>
+    <name>Department1</name>
+    <doctor>
+        <firstName>FN1</firstName>
+        <lastName>LN1</lastName>
+        <position>CEO</position>
+    </doctor>
+    <doctor>
+        <firstName>FN2</firstName>
+        <lastName>LN2</lastName>
+        <position>DIRECTOR</position>
+    </doctor>
+    <doctor>
+        <firstName>FN3</firstName>
+        <lastName>LN3</lastName>
+        <position>MANAGER</position>
+    </doctor>
+</department>
